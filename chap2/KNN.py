@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 14 19:33:49 2016
+Created on Mon Nov 14 19:33:49 2016 %%
 
 @author: JinYong Liu
 @codestyle:PEP8
